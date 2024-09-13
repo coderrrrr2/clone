@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999037488630",
+    "project_id": "quora-clone-4e1e6",
+    "storage_bucket": "quora-clone-4e1e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999037488630:android:39eec7996d231a10510bd7",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEu-dlQWQeorsUW6nUK_SAheTLShZLSYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
